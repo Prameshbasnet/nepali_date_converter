@@ -1,6 +1,6 @@
 name: nepali_date_converter
 description: "A Dart package to convert between Nepali (BS) and English (AD) dates."
-version: 0.0.3
+version: 1.0.3
 homepage: https://github.com/Prameshbasnet/nepali_date_converter.git
 
 environment:
